@@ -1,30 +1,27 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: December 4, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Began working on creating a To-do List application
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Some of the JavaScript in the template I found is difficult to understand & change. I believe I will be able to within a few days though.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** (Will update)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: December 5, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I refined the to-do list app further and feel really confident in the look, but am working on adding functionallity and a better user-experience.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Complex vanilla JavaScript is making more sense thanks to Treehouse.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: (Will Update)
 
 
-### Day 1: June 27, Monday
+### Day 1: December 6, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: It was my goal to finish the to-do app today and send to a possible employer. I finished but think there are a few things I could have done better. Today is my first day of the JavaScript 30 challenge, where we build a drum web application.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** The more time I spend programming, the more proficient I feel. I've also been brainstorming a lot of little projects to work on that are relevant products that I need, not just practice.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://javascript30.com/

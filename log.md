@@ -14,10 +14,10 @@
 
 **Thoughts**: Complex vanilla JavaScript is making more sense thanks to Treehouse.
 
-**Link(s) to work**: (Will Update)
+**Link(s) to work**:
 
 
-### Day 1: December 6, 2017
+### Day 3: December 6, 2017
 
 **Today's Progress**: It was my goal to finish the to-do app today and send to a possible employer. I finished but think there are a few things I could have done better. Today is my first day of the JavaScript 30 challenge, where we build a drum web application.
 
@@ -25,3 +25,24 @@
 
 **Link(s) to work**
 1. https://javascript30.com/
+
+
+(Large Pause in this challenge, however, I will be resuming now)
+
+
+
+### Day 1: June 19, 2018
+
+**Today's Progress**: Treehouse frontend web dev track
+
+**Thoughts** Taking a break from really coding every day means I am having to re-look through basic html & css courses.
+
+**Link(s) to work**
+
+### Day 2: June 20, 2018
+
+**Today's Progress**: Today I am working on my personal portfolio website. I am using Avocode + Figma to get some help on the CSS, but the HTML is from scratch
+
+**Thoughts** 
+
+**Link(s) to work** makennasmutz.com

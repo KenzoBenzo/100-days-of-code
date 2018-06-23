@@ -45,4 +45,36 @@
 
 **Thoughts** 
 
-**Link(s) to work** makennasmutz.com
+**Link(s) to work** https://kenzobenzo.github.io
+
+## Day 3: June 21, 2018
+
+**Today's progress**: I have been relearning the basics of HTML nesting to code my website how I have designed it! No tangible changes were made on the website code today
+
+**Link(s) to work**
+- Check out the design for this website: https://www.figma.com/file/W5YxbcLqvXdVE6f1abGakljM/Personal-Portfolio?node-id=25%3A2
+- Making for: https://kenzobenzo.github.io
+
+## Day 4: June 22, 2018
+
+**Today's Progress**: Today I started altertering the code I had already written to be more accurate & scalable. I also figured out how to push my first commit after the initial to my portoflio. Find the link below.
+
+**Link(s) to work**
+- Check out the design for this website: https://www.figma.com/file/W5YxbcLqvXdVE6f1abGakljM/Personal-Portfolio?node-id=25%3A2
+- Making for: https://kenzobenzo.github.io
+
+## Day 5: June 23, 2018
+
+**Today's Progress**: I am working with Webflow to get all of the content in HTML on my portfolio website.
+
+**Link(s) to work**
+- https://kenzobenzo.github.io
+- https://www.figma.com/file/W5YxbcLqvXdVE6f1abGakljM/Personal-Portfolio?node-id=25%3A2
+
+## Day 00: June 00, 2018
+
+**Today's Progress**:
+
+**Link(s) to work**
+-
+-
